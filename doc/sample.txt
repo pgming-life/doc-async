@@ -1,0 +1,10 @@
+﻿【<strong>UTF-8ドキュメント</strong>】
+<center>
+<h1>HTML文書</h1></center>
+<hr>
+<h3>あいうえお</h3>
+<b>HTML文書</b>を表示しています。<br>
+<hr align=center size=10 width=420 color="#20ff00">
+<center><marquee width=300 bgcolor="#ffffff">
+ようこそ！！
+</marquee></center>
